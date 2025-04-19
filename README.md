@@ -47,11 +47,23 @@ Selamat datang di repository ini! Repo ini berisi hasil final project dari Mini 
 ## 📌 Insight Utama
 
 Beberapa insight yang diangkat dari dashboard:
-- Distribusi fasilitas kesehatan masih terpusat di daerah perkotaan
-- Terdapat ketimpangan antara jumlah peserta jaminan kesehatan dengan jumlah fasilitas di beberapa kabupaten
-- Korelasi yang menarik antara cakupan jaminan kesehatan dan kepadatan penduduk
 
----
+### 1. **Distribusi Fasilitas Kesehatan di Jawa Barat**
+- **Posyandu** mendominasi jumlah fasilitas kesehatan di Jawa Barat dengan total 52.744 unit, menyumbang sekitar 94,47% dari keseluruhan fasilitas. citeturn0search0
+- **Puskesmas** berjumlah 2.157 unit, sekitar 3,87% dari total fasilitas.
+- **RS Umum** tersedia di hampir semua kota/kabupaten, namun **RS Khusus** dan **RS Bersalin** tidak merata, dengan beberapa daerah seperti Sukabumi dan Pangandaran masih kekurangan fasilitas tersebut. citeturn0search0
+
+### 2. **Keterbatasan Akses Jaminan Kesehatan**
+- Sekitar 32% penduduk Jawa Barat tidak terdaftar dalam program jaminan kesehatan, persentase tertinggi di Pulau Jawa. citeturn0search2
+- Ketimpangan ini menunjukkan perlunya pemerataan akses jaminan kesehatan di seluruh wilayah.
+
+### 3. **Korelasi antara Fasilitas Kesehatan dan Jaminan Kesehatan**
+- Terdapat hubungan antara jumlah fasilitas kesehatan dengan jumlah peserta jaminan kesehatan di setiap kota/kabupaten.
+- Beberapa daerah dengan jumlah fasilitas terbatas menunjukkan angka peserta jaminan kesehatan yang tinggi, menandakan kebutuhan untuk pembangunan fasilitas tambahan.
+
+### 4. **Prioritas Pembangunan Fasilitas Kesehatan**
+- Daerah seperti **Sukabumi**, **Pangandaran**, dan **Cianjur** membutuhkan perhatian khusus dalam pembangunan RS Khusus dan RS Bersalin untuk memenuhi kebutuhan layanan kesehatan masyarakat.
+
 
 ## 📷 Preview Dashboard
 
